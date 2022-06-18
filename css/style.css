@@ -31,10 +31,11 @@
     overflow-x: hidden;
  }
  body {
-    font-family: 'Libre Baskerbille', serif !important;
+    font-family: 'Libre Baskerville', serif !important;
  }
 
  h1 {
+    font-family: 'Libre Baskerville', serif !important;
     font-weight: bold;
  }
 
