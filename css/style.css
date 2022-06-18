@@ -25,11 +25,13 @@
 /* 01. Basic Styles
  * =================================================================== */
 
+ @import url('https://fonts.googleapis.com/css2?family=Bellefair&family=Libre+Baskerville&display=swap');
+
  html {
     overflow-x: hidden;
  }
  body {
-    font-family: 'Georgia', serif;
+    font-family: 'Libre Baskerbille', serif !important;
  }
 
  h1 {
